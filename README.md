@@ -1,10 +1,18 @@
 # MESL机场地址
 
-最新地址：[meslcloud.com](https://panel.meslcloud.com/#/register?code=4Y7ARmAb)
+最新地址：[meslcloud.com](https://mesl.gov.ltd/#/register?code=4Y7ARmAb)
 
 ## 简介
 
 MESL 机场是一家创立于 2022 年的新晋机场服务商，采用 Shadowsocks 协议，国内有多个电信运营商入口，优质的 BGP 入口，IEPL 内网专线传输，有不错的流媒体解锁和 ChatGPT 支持，可以说是一家很有实力的机场。Premium 套餐流量和 Standard 套餐流量设置相同，但拥有更高优先级的多线 BGP 入口，理论上稳定性更佳。MESL 机场部分节点有倍率，使用时请注意。
+
+## MESL优惠码
+
+新年快乐！！！！
+
+优惠码：15%OFF
+
+即日起至2月29号， 85折优惠（在售套餐除Premium 50G外均可用）
 
 ## 特色
 
