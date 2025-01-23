@@ -1,6 +1,6 @@
 # MESL机场地址
 
-最新地址：[mesl.cloud](https://cdn.meslcloud.com/#/register?code=4Y7ARmAb)
+最新地址：[mesl.cloud](https://cdn1.meslcloud.com/#/register?code=4Y7ARmAb)
 
 ## 简介
 
