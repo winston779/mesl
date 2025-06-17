@@ -1,6 +1,6 @@
 # MESL机场地址
 
-最新地址：[mesl.cloud](https://in.mesl.cloud/#/register?code=4Y7ARmAb)
+最新地址：[mesl.cloud](https://cdn.meslcloud.com/#/register?code=4Y7ARmAb)
 
 ## 简介
 
@@ -8,11 +8,11 @@ MESL 机场是一家创立于 2022 年的新晋机场服务商，采用 Shadowso
 
 ## MESL优惠码
 
-活动时间：即日起至2024/12/26 23:59
+使用优惠码 "15%OFF" 享受85折优惠
+
+活动时间：即日起至2025/06/20 23:59
 
 优惠码：15%OFF
-
-注：Premium 50G不參與優惠活動
 
 ## 特色
 
